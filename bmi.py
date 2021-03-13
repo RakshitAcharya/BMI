@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[1]:
+
+
 # import the streamlit library 
 import streamlit as st 
   
@@ -58,3 +64,6 @@ if(st.button('Calculate BMI')):
         st.warning("Overweight") 
     elif(bmi >= 30): 
         st.error("Extremely Overweight") 
+
+
+# In[ ]:
