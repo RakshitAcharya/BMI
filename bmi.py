@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[1]:
-
-
-# import the streamlit library 
 import streamlit as st 
   
 # give a title to our app 
